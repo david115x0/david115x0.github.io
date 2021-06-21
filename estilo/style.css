@@ -1,0 +1,38 @@
+
+/* resetando as configuraçoes do site*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+    font-weight: 400;
+}
+
+/* alterando os navs*/
+
+.nav_icones ul li {
+    text-align: center;
+    display: inline;
+}
+/*conteudo dos textos*/
+
+.titulo1 {
+    text-align: center;
+
+}
+.titulo2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    padding: 30px;
+}
+.central {
+    box-sizing: border-box;
+    width: 55px;
+    box-sizing: border-box;
+    position: absolute;
+    right: 120px;
+    
+}
