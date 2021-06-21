@@ -14,6 +14,8 @@
 .nav_icones ul li {
     text-align: center;
     display: inline;
+    position: relative;
+    left: 33%;
 }
 /*conteudo dos textos*/
 
@@ -39,7 +41,4 @@ p {
     
 
        
-}
-.borda_pagina {
-    
 }
