@@ -19,20 +19,27 @@
 
 .titulo1 {
     text-align: center;
-
+    text-transform: uppercase;
+    padding: 50px;
 }
 .titulo2 {
     text-align: center;
+    text-transform: uppercase;
+    padding: 25px;
 }
 p {
-    text-align: center;
-    padding: 30px;
+    text-align: justify;
+   font-size: medium;
 }
 .central {
-    box-sizing: border-box;
     width: 55px;
-    box-sizing: border-box;
-    position: absolute;
-    right: 120px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    
+
+       
+}
+.borda_pagina {
     
 }
