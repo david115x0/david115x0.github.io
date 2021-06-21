@@ -16,6 +16,8 @@
     display: inline;
     position: relative;
     left: 33%;
+    padding-left: 1%;
+    color: black;
 }
 /*conteudo dos textos*/
 
@@ -33,12 +35,14 @@ p {
     text-align: center;
    font-size: medium;
 }
+/*imagem da cenral de atendimento*/
 .central {
     width: 55px;
     position: fixed;
     right: 0;
     bottom: 0;
 }
+/*imagem do celular e do frete*/
 .pao {
    box-sizing: border-box;
    width: 100%;
@@ -46,4 +50,10 @@ p {
 .celular {
     box-sizing: border-box;
     width: 100%;
+ }
+
+ /*header*/
+
+ .cor_header {
+     background-color: turquoise;
  }
